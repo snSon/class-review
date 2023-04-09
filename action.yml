@@ -1,6 +1,6 @@
 # action.yaml
 name:'Custom GitHub Action'
-description: 'A GitHub Action that takes an input and returns the square of the number'
+description:'A GitHub Action that takes an input and returns the square of the numbe'
 inputs:
   num:
     description: 'Enter a number'
