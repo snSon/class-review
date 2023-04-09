@@ -8,12 +8,10 @@
 ### 헤더3
 #### 헤더4
 
-동아대학교 홈페이지는 
-Click [여기][id]로
-[id]:https://www.donga.ac.kr/
+동아대학교 홈페이지는 [여기](https://www.donga.ac.kr/)
 * https://www.donga.ac.kr/
 
-My github page is available [Link](https://github.com/snSon "here")
+My github page is available [here](https://github.com/snSon "here")
 
 [![Ima Alt Text](https://www.donga.ac.kr/Default.aspx)](https://www.donga.ac.kr/Default.aspx)
 
