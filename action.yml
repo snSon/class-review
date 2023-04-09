@@ -4,7 +4,7 @@ description: 'A GitHub Action that takes an input and returns the square of the 
 inputs:
   num:
     description: 'Enter a number'
-    required: ture
+    required: true
     default: "1"
 outputs:
   num_squared:
