@@ -13,7 +13,7 @@ Click [여기][id]로
 [id]:https://www.donga.ac.kr/
 * https://www.donga.ac.kr/
 
-My github page is available Click [here][id]:https://github.com/snSon
+My github page is available [Link](https://github.com/snSon "here")
 
 [![Ima Alt Text](https://www.donga.ac.kr/Default.aspx)](https://www.donga.ac.kr/Default.aspx)
 
