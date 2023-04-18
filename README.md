@@ -9,7 +9,7 @@
 ### 헤더3
 #### 헤더4
 
-동아대학교 홈페이지는 [여기](https://www.donga.ac.kr/)로
+동아대학교 홈페이지는 ['동아대'](https://www.donga.ac.kr/)로
 * https://www.donga.ac.kr/
 
 My github page is available [here](https://github.com/snSon "here")
