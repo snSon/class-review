@@ -53,20 +53,17 @@ __bold__
 2. 나
 3. 다
 
+
  1. 가
- 2. 나
- 3. 다
 
 * 가
+ 나
+- 다
+ + 라
 
-_ 나
-
- 다
-
-  라
 [링크](https://www.naver.com"안녕")
 
-Click [here][id][id]:https://www.naver.com
+[링크]:https://www.naver.com
 
 >인용
 
