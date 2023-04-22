@@ -30,28 +30,44 @@ My github page is available [here](https://github.com/snSon "here")
 * Undordered list (*)
 
 # Header1
+
 Header1
 =======
+
 ## Header2
+
 Header2
 -------
+
 ### Header3
 
 *italics*
+
 _italics_
+
 **bold**
+
 __bold__
+
 1. 가
 2. 나
 3. 다
+
  1. 가
  2. 나
  3. 다
+
 * 가
+
 _ 나
+
  다
+
   라
 [링크](https://www.naver.com"안녕")
-Click [링크][id]:https://www.naver.com
+
+Click [here][id][id]:https://www.naver.com
+
 >인용
+
 > 인용
