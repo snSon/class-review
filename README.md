@@ -14,7 +14,7 @@
 
 My github page is available [here](https://github.com/snSon "here")
 
-[![Ima Alt Text](https://www.donga.ac.kr/gzSub_001004001.aspx)](https://www.donga.ac.kr/gzSub_001004001.aspx)
+[![Ima Alt Text](https://www.donga.ac.kr/gzSub_001004001.aspx/0.jpg)](https://www.donga.ac.kr/gzSub_001004001.aspx)
 
 >“The computer was born to solve problems that did not exist before.” — Bill Gates, Microsoft founder and former CEO, philanthropist
 
