@@ -16,9 +16,9 @@ My github page is available [here](https://github.com/snSon "here")
 
 [![Ima Alt Text](https://www.donga.ac.kr/gzSub_001004001.aspx)](https://www.donga.ac.kr/gzSub_001004001.aspx)
 
-> “The computer was born to solve problems that did not exist before.” — Bill Gates, Microsoft founder and former CEO, philanthropist
+>“The computer was born to solve problems that did not exist before.” — Bill Gates, Microsoft founder and former CEO, philanthropist
 
-> “Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” — Linus Torvalds, software engineer, inventor of the Linux operating system
+>“Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” — Linus Torvalds, software engineer, inventor of the Linux operating system
 
 >“Everybody should learn to program a computer, because it teaches you how to think.” - Steve Jobs, former CEO and creator of Apple
 
@@ -28,3 +28,30 @@ My github page is available [here](https://github.com/snSon "here")
 
 * Undordered list (*)
 * Undordered list (*)
+
+# Header1
+Header1
+=======
+## Header2
+Header2
+-------
+### Header3
+
+*italics*
+_italics_
+**bold**
+__bold__
+1. 가
+2. 나
+3. 다
+ 1. 가
+ 2. 나
+ 3. 다
+* 가
+_ 나
+ 다
+  라
+[링크](https://www.naver.com"안녕")
+Click [링크][id]:https://www.naver.com
+>인용
+> 인용
